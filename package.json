@@ -1,0 +1,25 @@
+{
+  "name": "sneakx",
+  "version": "0.0.1",
+  "description": "a cli-based stockx data retriever",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yandhi/sneakx.git"
+  },
+  "keywords": [
+    "sneakers"
+  ],
+  "author": "yandhi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yandhi/sneakx/issues"
+  },
+  "homepage": "https://github.com/yandhi/sneakx#readme",
+  "dependencies": {
+    "stockx-api": "^1.0.9"
+  }
+}
